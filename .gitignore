@@ -1,0 +1,24 @@
+###> Dependency directories
+/vendor/
+###< Dependency directories
+
+###> Composer directories
+/vendor-bin/
+###< Composer directories
+
+###> PHPUnit directories
+/phpunit/
+/.phpunit.result.cache
+###< PHPUnit directories
+
+###> OS specific files
+.DS_Store
+Thumbs.db
+###< OS specific files
+
+###> IDE specific files
+/.idea/
+/.vscode/
+/.vscode-test/
+/.code/
+###< IDE specific files

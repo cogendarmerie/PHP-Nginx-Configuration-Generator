@@ -1,0 +1,21 @@
+{
+    "name": "cogendar38/php-nginx-config-generator",
+    "description": "Générateur de fichier de configuration Nginx PHP",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Cogendar38\\PhpNginxConfigGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Corentin",
+            "email": "corentin@seventeeninfo.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/form": "7.4.x-dev",
+        "symfony/validator": "7.4.x-dev"
+    }
+}
