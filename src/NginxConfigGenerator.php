@@ -38,7 +38,7 @@ class NginxConfigGenerator
 
     public function render(): string
     {
-        $file = file_get_contents("../src/Generator/Nginx/example.conf");
+        $file = file_get_contents("./example.conf");
 
         $file = str_replace('%server_name%', $this->serverName, $file);
         return str_replace('%locations%', $this->locations->render(), $file);
