@@ -18,5 +18,6 @@
         "php": ">=8.2",
         "symfony/form": "^7.3",
         "symfony/validator": "^7.3"
-    }
+    },
+    "license": "MIT"
 }
