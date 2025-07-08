@@ -13,10 +13,10 @@
             "email": "corentin@seventeeninfo.fr"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=8.2",
-        "symfony/form": "7.4.x-dev",
-        "symfony/validator": "7.4.x-dev"
+        "symfony/form": "^7.3",
+        "symfony/validator": "^7.3"
     }
 }
