@@ -1,6 +1,6 @@
 {
     "name": "cogendar38/php-nginx-config-generator",
-    "description": "Générateur de fichier de configuration Nginx PHP",
+    "description": "Générateur de fichier de configuration Nginx PHP pour Symfony",
     "type": "library",
     "autoload": {
         "psr-4": {
